@@ -51,7 +51,6 @@ export default function Input() {
   };
   const reset = () => {
     setInputValue('');
-    value = ''
     /* STEP 5 */
   };
 
